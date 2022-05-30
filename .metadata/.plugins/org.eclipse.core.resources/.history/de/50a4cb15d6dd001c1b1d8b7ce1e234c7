@@ -1,0 +1,18 @@
+package Aula12;
+
+public class Peixe extends Animal{
+
+	private String corEscama;
+	
+	public void soltarBolha() {
+		System.out.println("Bolha soltada");
+	}
+
+	public String getCorEscama() {
+		return corEscama;
+	}
+
+	public void setCorEscama(String corEscama) {
+		this.corEscama = corEscama;
+	}
+}

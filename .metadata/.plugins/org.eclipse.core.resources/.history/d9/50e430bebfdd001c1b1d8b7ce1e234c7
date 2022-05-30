@@ -1,0 +1,19 @@
+package Aula11;
+
+public class Bolsista extends Aluno{
+
+	//Atributos
+	private int bolsa;
+	
+	public void renovarBolsa() {
+		
+	}
+
+	public int getBolsa() {
+		return bolsa;
+	}
+
+	public void setBolsa(int bolsa) {
+		this.bolsa = bolsa;
+	}
+}

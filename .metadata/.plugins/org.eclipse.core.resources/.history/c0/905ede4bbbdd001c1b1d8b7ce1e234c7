@@ -1,0 +1,8 @@
+package Aula11;
+public class Pessoa {
+
+	//Atributos
+	private String nome;
+	private int idade;
+	private String sexo;
+}

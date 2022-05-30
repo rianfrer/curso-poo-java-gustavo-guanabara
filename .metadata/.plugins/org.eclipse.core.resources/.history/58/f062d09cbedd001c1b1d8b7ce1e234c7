@@ -1,0 +1,13 @@
+package Aula11;
+public class Aula11 {
+
+	public static void main(String[] args) {
+
+		/*Pessoa p1 = new Pessoa(); [ERRO] A classe pessoa não pode ser 
+		instanciada pq é uma classe abstrata*/
+		
+		Visitante v1 = new Visitante(); //Visitante é filha de pessoa mas isso n o torna abstrata tbm
+		Aluno a1 = new Aluno();  // Mesco caso de visitante
+	}
+
+}

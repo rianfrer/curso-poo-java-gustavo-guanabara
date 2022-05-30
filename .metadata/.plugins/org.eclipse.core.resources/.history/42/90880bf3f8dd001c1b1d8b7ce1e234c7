@@ -1,0 +1,56 @@
+package Aula14;
+public class Video implements AcoesVideo{
+
+	private String titulo;
+	private String avaliaçao;
+	private int views;
+	private int curtidas;
+	private boolean reproduzindo;
+	
+	public Video(String titulo) {
+		
+	};
+	
+	public String getTitulo() {
+		return titulo;
+	}
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
+	}
+	public String getAvaliaçao() {
+		return avaliaçao;
+	}
+	public void setAvaliaçao(String avaliaçao) {
+		this.avaliaçao = avaliaçao;
+	}
+	public int getViews() {
+		return views;
+	}
+	public void setViews(int views) {
+		this.views = views;
+	}
+	public int getCurtidas() {
+		return curtidas;
+	}
+	public void setCurtidas(int curtidas) {
+		this.curtidas = curtidas;
+	}
+	public boolean isReproduzindo() {
+		return reproduzindo;
+	}
+	public void setReproduzindo(boolean reproduzindo) {
+		this.reproduzindo = reproduzindo;
+	}
+	@Override
+	public void play() {
+		
+	}
+	@Override
+	public void pause() {
+		
+	}
+	@Override
+	public void like() {
+		
+	}
+}

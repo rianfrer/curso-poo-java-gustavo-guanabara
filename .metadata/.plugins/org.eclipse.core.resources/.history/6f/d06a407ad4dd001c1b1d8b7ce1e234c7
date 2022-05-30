@@ -1,0 +1,6 @@
+package Aula12;
+
+public class Réptil {
+
+	private String corEscama;
+}

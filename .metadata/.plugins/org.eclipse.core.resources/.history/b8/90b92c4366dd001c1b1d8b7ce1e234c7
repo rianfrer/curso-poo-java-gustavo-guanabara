@@ -1,0 +1,18 @@
+package Aula10;
+
+public class Aluno {
+	
+	//Atributos
+	private int matr;
+	private String curso;
+	
+	public Aluno(int matr, String curso) {
+		super();
+		this.matr = matr;
+		this.curso = curso;
+	}
+	
+	public void cancelarMatr() {
+		
+	}
+}

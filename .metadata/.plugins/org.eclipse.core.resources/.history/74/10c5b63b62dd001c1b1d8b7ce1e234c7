@@ -1,0 +1,21 @@
+package Aula10;
+
+public class Pessoa {
+	//Atributos
+	private String nome;
+	private int idade;
+	private String sexo;
+	
+	//Métodos
+	public Pessoa(String nome, int idade, String sexo) {
+		super();
+		this.nome = nome;
+		this.idade = idade;
+		this.sexo = sexo;
+	}
+	
+	public void fazerAniv() {
+		this.idade++;
+	}
+	
+}

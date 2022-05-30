@@ -1,0 +1,5 @@
+package Aula14;
+public interface AcoesVideo {
+	
+	public abstract void play();
+}

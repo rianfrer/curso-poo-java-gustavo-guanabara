@@ -1,0 +1,17 @@
+package Aula11;
+
+public class Bolsista extends Aluno{
+
+	//Atributos
+	private float bolsa;
+	
+	public void renovarBolsa() {
+		
+	}
+	
+	//@Sobrepor
+	public void pagarMens() {
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+package Aula11;
+public class Professor {
+
+	//Atributos
+	private String especialidade;
+	private float salario;
+}

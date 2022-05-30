@@ -1,0 +1,10 @@
+package Aula09;
+public class Livro {
+	//Atributos
+	private String titulo;
+	private String autor;
+	private int totPaginas;
+	private int pagAtual;
+	private boolean aberto;
+	private String leitor;
+}

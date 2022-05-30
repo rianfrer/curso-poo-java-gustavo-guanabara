@@ -1,0 +1,6 @@
+package Aula13;
+public class Animal {
+
+	protected float peso;
+	protected int idade;
+}

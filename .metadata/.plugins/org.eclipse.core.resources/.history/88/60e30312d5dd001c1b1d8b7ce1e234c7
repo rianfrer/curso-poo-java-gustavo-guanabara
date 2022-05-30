@@ -1,0 +1,6 @@
+package Aula12;
+
+public class Réptil extends Animal {
+
+	private String corEscama;
+}

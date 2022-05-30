@@ -1,0 +1,8 @@
+package Aula12;
+
+public class Peixe {
+
+	private String corEscama;
+	
+	
+}

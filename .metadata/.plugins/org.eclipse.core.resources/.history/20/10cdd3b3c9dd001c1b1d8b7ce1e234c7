@@ -1,0 +1,10 @@
+package Aula11;
+public class Tecnico {
+
+	//Atributos
+	private String registroProfissional;
+	
+	public void praticar() {
+		System.out.println("Praticandoo!!");
+	}
+}

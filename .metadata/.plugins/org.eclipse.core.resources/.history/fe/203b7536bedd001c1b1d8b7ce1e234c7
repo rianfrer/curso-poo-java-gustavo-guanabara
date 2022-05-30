@@ -1,0 +1,10 @@
+package Aula11;
+
+public class Aluno extends Pessoa{
+
+	//Atributos 
+	private int matr;
+	private String curso;
+	
+	public void pagarMens() {}
+}

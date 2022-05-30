@@ -1,0 +1,11 @@
+package Aula14;
+
+public class Gafanhoto extends Pessoa{
+
+	private String login;
+	private String totAssistido;
+	
+	public void viuMaisUm() {
+		
+	}
+}

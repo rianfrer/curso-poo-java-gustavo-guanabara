@@ -1,0 +1,8 @@
+package Aula14;
+public class Video {
+
+	private String titulo;
+	private String avaliaçao;
+	private int views;
+	private int curtidas;
+}

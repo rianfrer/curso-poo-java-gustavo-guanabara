@@ -1,0 +1,15 @@
+package Aula10;
+
+public class Professor {
+
+	//Atributos
+	private String especialidade;
+	private float salario;
+	
+	public Professor(String especialidade, float salario) {
+		this.especialidade = especialidade;
+		this.salario = salario;
+	}
+	
+	
+}

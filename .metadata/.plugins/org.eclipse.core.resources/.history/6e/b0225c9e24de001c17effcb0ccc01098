@@ -1,0 +1,12 @@
+package Aula14;
+public class Aula14 {
+
+	public static void main(String[] args) {
+		
+		Video v[] = new Video[3];
+		v[0] = new Video("Aula POO");
+		v[1] = new Video("POLIMORFISMO");
+		v[2] = new Video("HERANÇA");
+	}
+
+}

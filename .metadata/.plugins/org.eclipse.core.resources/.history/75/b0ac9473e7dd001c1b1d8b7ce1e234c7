@@ -1,0 +1,9 @@
+package Aula12;
+
+public class Cachorro {
+
+	public void enterrarOsso() {
+		
+	}
+	
+}
